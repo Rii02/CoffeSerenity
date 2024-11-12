@@ -12,7 +12,17 @@ antarmuka yang sederhana dan menarik, pengguna dapat menjelajahi berbagai jenis
 kopi, mulai dari espresso hingga varian kopi spesial yang dibuat dengan biji kopi 
 pilihan.
 
-# Fitur
+# Fungsi Aplikasi
+Aplikasi serenity coffe berfungsi untuk mempermudah pemesanan kopi dengan dilengkapi fitur:
+1.	Pencarian berfungsi untuk mencari menu apakah yang akan dipesan oleh pembeli  
+2.	Menu keranjang berfungsi untuk menambah pesanan yang akan dibeli oleh konsumen  
+3.	Menu favorit berfungsi untuk menyukai pesanan yang dibeli oleh pelanggan  
+4.	Menu History berfungsi Ketika pelanggan ingin membeli menu yang sama
+
+# Tujuan Aplikasi
+Tujuan pembuatan aplikasi Coffee Shop sebagai berikut: 
+1.	Menyediakan berbagai jenis minuman  berbasis kopi dengan kualitas yang tinggi.  
+2.	Memberikan kemudahan bagi pelanggan: pelanggan bisa memesan secara online, memlih menu, dan melakukan pembayaran tanpa harus antri
 
 # Profil Developer
 
