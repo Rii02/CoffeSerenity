@@ -14,10 +14,11 @@ pilihan.
 
 # Fungsi Aplikasi
 Aplikasi serenity coffe berfungsi untuk mempermudah pemesanan kopi dengan dilengkapi fitur:
-1.	Pencarian berfungsi untuk mencari menu apakah yang akan dipesan oleh pembeli  
-2.	Menu keranjang berfungsi untuk menambah pesanan yang akan dibeli oleh konsumen  
-3.	Menu favorit berfungsi untuk menyukai pesanan yang dibeli oleh pelanggan  
-4.	Menu History berfungsi Ketika pelanggan ingin membeli menu yang sama
+1.	Fitur Pencarian berfungsi untuk mencari menu yang ingin dipesan
+2.	Fitur keranjang berfungsi untuk menambahkan menu ke dalam keranjang yang nantinya akan dipesan
+3.	Fitur favorite berfungsi untuk menampilkan menu coffee yang disukai.
+4.	Fitur History berfungsi untuk menampilkan Riwayat pesanan pembelian coffee. 
+5.	Fitur pembayaran berfungsi untuk menampilkan tagihan pembayaran dan konfirmasi pembayaran.
 
 # Tujuan Aplikasi
 Tujuan pembuatan aplikasi Coffee Shop sebagai berikut: 
@@ -33,12 +34,11 @@ Tujuan pembuatan aplikasi Coffee Shop sebagai berikut:
 Project aplikasi Serenity Coffee ini kami buat untuk memenuhi tugas dari mata kuliah Pemrograman Mobile pada Prodi S1 [Pendidikan Teknologi Informasi](https://pendidikan-ti.ft.unesa.ac.id/) dari [Fakultas Teknik](https://ft.unesa.ac.id/) [Universitas Negeri Surabaya](https://unesa.ac.id/)
 
 # View Aplikasi
+![Desktop - 1](https://github.com/user-attachments/assets/b188ad78-9e77-4131-8c4c-dab16b76e5d8)
+![Desktop - 2](https://github.com/user-attachments/assets/2bb86282-d2f6-4771-a0b8-132bd9028fac)
 
-![Login](https://github.com/user-attachments/assets/0898681c-0133-4e4f-bc82-a7b825e06c01) ![Register](https://github.com/user-attachments/assets/c40850f7-489a-424b-9566-d1cd0b1842ca) 
-![Home](https://github.com/user-attachments/assets/02656b4c-0cda-4484-9bc4-0a08f6a8b708) ![Detail](https://github.com/user-attachments/assets/fdca7a99-5dfe-4b9e-bb34-c14fee5a4564)
-![Keranjang](https://github.com/user-attachments/assets/03b690c4-d6f0-4079-acda-34c5ad5ae0e7) ![Pembayaran](https://github.com/user-attachments/assets/c06ccfbd-af1d-46cd-b57f-0dc948c93c2a)
-![History](https://github.com/user-attachments/assets/867d9199-1f53-482e-b910-f1edf460c7dc) ![Profile](https://github.com/user-attachments/assets/6db8e493-f7e5-49d4-91d6-6dfd736727ba)
-![Favorite](https://github.com/user-attachments/assets/f497670e-27ad-4331-92c1-2cd63794b8b8) 
+
+
 
 
 
