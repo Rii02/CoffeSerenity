@@ -20,7 +20,7 @@ pilihan.
 2. Fakhrudin Rifki Amri (23050974025)
 3. Lenny Yuwita         (23050974028)
 
-Project aplikasi Serenity Coffee ini kami buat untuk memenuhi tugas dari mata kuliah Pemrograman Mobile pada Prodi S1 Pendidikan Teknologi Informasi [Pendidikan Teknologi Informasi](https://pendidikan-ti.ft.unesa.ac.id/) dari Fakultas Teknik [Fakultas Teknik](https://ft.unesa.ac.id/) Universitas Negeri Surabaya [Universitas Negeri Surabaya](https://unesa.ac.id/)
+Project aplikasi Serenity Coffee ini kami buat untuk memenuhi tugas dari mata kuliah Pemrograman Mobile pada Prodi S1 [Pendidikan Teknologi Informasi](https://pendidikan-ti.ft.unesa.ac.id/) dari [Fakultas Teknik](https://ft.unesa.ac.id/) [Universitas Negeri Surabaya](https://unesa.ac.id/)
 
 # View Aplikasi
 
